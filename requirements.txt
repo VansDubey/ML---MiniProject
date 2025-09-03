@@ -1,0 +1,13 @@
+# Module : File uploading in CSV in Flask
+# Uploading a csv file using frontend in your directory and also handling it using Postman
+
+# Data processing for Machine Learning : Building Machine Learning API
+
+#########
+# Deploying the machine learning application on Render:
+
+1. Get all the packages name in the file : pip freeze > requirements_package.txt
+2. 
+
+
+
